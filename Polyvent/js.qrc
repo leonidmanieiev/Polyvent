@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>js/http_request_handler.js</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/icons/calendar.svg</file>
+        <file>resources/icons/map.svg</file>
+        <file>resources/icons/search.svg</file>
+        <file>resources/icons/home.svg</file>
+        <file>resources/icons/gps_location.svg</file>
+        <file>resources/icons/location_pointer.png</file>
+        <file>resources/icons/poly_point_pointer.png</file>
+        <file>resources/icons/arrow.svg</file>
+        <file>resources/icons/sad.svg</file>
+        <file>resources/icons/time.svg</file>
+        <file>resources/icons/event_block_background_0.jpg</file>
+        <file>resources/icons/favorite_on.svg</file>
+        <file>resources/icons/favorite_off.svg</file>
+        <file>resources/fonts/constanb.ttf</file>
+        <file>resources/fonts/georgia.ttf</file>
+    </qresource>
+</RCC>

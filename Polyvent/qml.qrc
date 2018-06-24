@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/BottomBtn.qml</file>
+        <file>qml/calendar.qml</file>
+        <file>qml/event_info.qml</file>
+        <file>qml/home.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/map.qml</file>
+        <file>qml/PolyPoints.qml</file>
+        <file>qml/search.qml</file>
+        <file>qml/EventList.qml</file>
+        <file>qml/CustomCalendar.qml</file>
+        <file>qml/DateField.qml</file>
+        <file>qml/NoEventBlock.qml</file>
+        <file>qml/favorites.qml</file>
+        <file>qml/Fonts.qml</file>
+        <file>qml/fetch_events.qml</file>
+        <file>qml/CustomLabel.qml</file>
+    </qresource>
+</RCC>
