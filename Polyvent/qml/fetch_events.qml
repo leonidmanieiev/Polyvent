@@ -15,10 +15,6 @@ Item
 
     property int cnt: 0
     readonly property string spbstu_site: "http://www.spbstu.ru/media/announcements/"
-    readonly property string api_request: 'https://api.vk.com/method/wall.get?domain'+
-                                           '=prometheus&count=30&filter=owner&access_token'+
-                                           '=7f45612f199ca6ccac78605e625e71c7b7db5ef08f523d96'+
-                                           'b6e11484391ecda8b79e86a10f29c7fe97a60&v=5.74'
 
     Label
     {
